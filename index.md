@@ -2,122 +2,87 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Nolli Poorna Chandrika
 
-[Link to another page](./another-page.html).
+📞 **+91-7989015758**  
+📧 [poornachandrikanolli@gmail.com](mailto:poornachandrikanolli@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/poorna-chandrika-nolli-281609254) | [GitHub](https://github.com/PoornaChandrikaNolli)  
+🎓 Bachelor of Technology – Computer Science and Engineering  
+🏫 University College of Engineering, Kakinada
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## 🏫 Education
 
-# Header 1
+| Degree        | Institution                         | CGPA/Percentage | Year |
+|---------------|-------------------------------------|------------------|------|
+| B.Tech., CSE  | University College of Engineering, Kakinada | 8.3 CGPA         | 2025 |
+| Intermediate  | Sri Chaitanya Junior College         | 966/1000         | 2021 |
+| SSC           | Mahathi High School                  | 10 CGPA          | 2019 |
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+---
 
-## Header 2
+## 💼 Experience
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### 🌐 Main Flow Services and Technologies  
+**Front-End Web Developer Intern** *(Virtual)*  
+**May 2024 - June 2024*  
+- Developed dynamic web pages using HTML, CSS, and JavaScript.  
+- Built 5+ interactive web pages with improved responsiveness.
 
-### Header 3
+### ☁ HDLC Technologies  
+**Cloud Computing Intern** *(Virtual)*  
+**May 2023 - June 2023*  
+- Deployed and hosted static websites using AWS S3.  
+- Managed EC2 instances for scalable cloud hosting.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+---
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## 💻 Projects
 
-#### Header 4
+### Quiz Application  
+*Mar 2023 – May 2023*  
+**Tools:** HTML5, CSS3, JavaScript  
+- Created a quiz system with timed questions and score tracking.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+### Sorting Algorithm Visualizer  
+*Dec 2023 – Jan 2024*  
+**Tools:** Python (IDLE), Matplotlib  
+- Implemented and visualized Quick Sort using matplotlib.
 
-##### Header 5
+### Market Basket Analysis  
+*Mar 2024 – May 2024*  
+**Tools:** Apriori Algorithm, Python (Jupyter Notebook)  
+- Analyzed product combinations and visualized rule metrics (support, confidence, lift).  
+- Suggested promotion strategies based on association rules.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+---
 
-###### Header 6
+## 🛠 Skills
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+- **Languages:** Python, C++  
+- **Web:** HTML5, CSS3, JavaScript  
+- **Concepts:** DSA, DBMS, MySQL, OOPs  
+- **Soft Skills:** Collaboration, Time Management, Problem Solving, Team Work, Logical Thinking
 
-### There's a horizontal rule below this.
+---
 
-* * *
+## 📜 Certifications
 
-### Here is an unordered list:
+- **NPTEL (2022):** Cloud Computing, Data Analytics with Python  
+- **HackerRank (2023):** Python, Java, Problem Solving, SQL, CSS  
+- **LinkedIn (2023):** Python, HTML5  
+- **edX (2024):** Python Basics for Data Science
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+---
 
-### And an ordered list:
+## 🏆 Achievements
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+- **GATE (CS-IT) 2024:** AIR 3534 (Top 1%)  
+- **JEE Main 2021:** AIR 23375 (Top 3%)  
+- **EAPCET 2021:** Rank 1319 (Top 1%)  
+- **Smart Interviews 2024:** Rank 3594  
+- **HackerRank:** 5⭐ Coder in Python, C++, Java  
+- **Highest CodeChef Rating:** 1489
 
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+---
